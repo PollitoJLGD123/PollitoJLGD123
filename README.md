@@ -1,6 +1,6 @@
 # 👋 Hola, soy José Luis Gutiérrez  
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Trujillo (UNT), actualmente cursando el sexto ciclo. Mi formación y experiencia están enfocadas en el desarrollo de software, aplicaciones web Full Stack y la gestión de bases de datos. Además, tengo interés en la inteligencia artificial y la ciencia de datos, áreas en las que he desarrollado proyectos innovadores.  
+Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Trujillo (UNT), actualmente cursando el septimo ciclo. Mi formación y experiencia están enfocadas en el desarrollo de software, aplicaciones web Full Stack y la gestión de bases de datos. Además, tengo interés en la inteligencia artificial y la ciencia de datos, áreas en las que he desarrollado proyectos innovadores.  
 
 ---
 
@@ -16,7 +16,8 @@ Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional de Trujillo
 - MySQL, SQL Server, SQLite  
 
 ### **Conocimientos Técnicos**  
-- Administración y diseño de bases de datos  
+- Administración y diseño de bases de datos
+- Desarrollo de páginas Web FullStack
 - Mantenimiento y soporte técnico de equipos de cómputo  
 - Configuración de redes básicas  
 - Ciencia de datos y análisis con Python  
