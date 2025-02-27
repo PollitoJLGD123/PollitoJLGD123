@@ -41,7 +41,7 @@ Desarrollo de un sistema basado en inteligencia artificial para detectar y trans
 
 ## 📫 **Contáctame**  
 - **Email**: joseluisjlgd123@gmail.com
-- **LinkedIn**: In proccess.
+- **LinkedIn**: https://www.linkedin.com/in/jose-luis-gutierrez-diaz-b06677312/
 - **GitHub**: https://github.com/PollitoJLGD123/PollitoJLGD123
 
 ---
