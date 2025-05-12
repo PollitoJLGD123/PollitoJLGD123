@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/PollitoJLGD123/PollitoJLGD123/blob/main/foto_me.jpg?raw=true" alt="José Luis Gutiérrez Díaz" width="150" style="border-radius: 50%;"/>
   
-  # José Luis Gutiérrez Díaz
+  # Jose Luis Gutierrez Diaz
 
   <p>
     <a href="https://www.linkedin.com/in/jose-luis-gutierrez-diaz-b06677312/" target="_blank">
