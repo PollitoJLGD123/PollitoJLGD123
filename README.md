@@ -1,5 +1,6 @@
+
 <div align="center">
-  ![Header](./[Your header image])
+  <img src="https://raw.githubusercontent.com/PollitoJLGD123/PollitoJLGD123/main/assets/github-header-image.png" alt="José Luis Gutiérrez Díaz" width="100%"/>
   
   # José Luis Gutiérrez Díaz
 
@@ -106,7 +107,7 @@ Ingeniero de Sistemas en formación en la Universidad Nacional de Trujillo, actu
 
 ## ⚡ Dato Curioso
 
-Me encanta aprender constantemente y explorar nuevas tecnologías. Cuando no estoy programando, disfruto [tus hobbies o intereses personales].
+Soy una persona totalmente optimista, me gusta mejorar el ambiente de trabajo, mi actitud motivadora es una fortaleza muy grande de mi persona.
 
 ---
 
