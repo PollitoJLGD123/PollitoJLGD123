@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PollitoJLGD123/PollitoJLGD123/main/assets/github-header-image.png" alt="José Luis Gutiérrez Díaz" width="100%"/>
+  <img src="https://drive.google.com/drive/folders/1TMnKT4GlUicU7b73DGQAa4U5DgUWnNUi?hl=es" alt="José Luis Gutiérrez Díaz" width="100%"/>
   
   # José Luis Gutiérrez Díaz
 
