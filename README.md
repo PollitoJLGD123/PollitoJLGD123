@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1k8NTFME-enNkBspwmgA_wkZHPl1rR8sa/view?usp=sharing" alt="José Luis Gutiérrez Díaz" width="100%"/>
+  ![Header](./[Your header image])
   
   # José Luis Gutiérrez Díaz
 
@@ -69,20 +69,6 @@ Ingeniero de Sistemas en formación en la Universidad Nacional de Trujillo, actu
 
 ---
 
-<div align="center">
-
-### [Nombre de otro proyecto]
-
-![Categoría](https://img.shields.io/badge/Categoría-Tecnología-blue)
-
-</div>
-
-**Descripción:** [Breve descripción del proyecto]
-
-**Tecnologías:** [Tecnologías utilizadas]
-
-**Enlace:** [Enlace al repositorio o demo]
-
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -130,24 +116,4 @@ Me encanta aprender constantemente y explorar nuevas tecnologías. Cuando no est
   <p>¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o proyectos interesantes.</p>
 </div>
 ```
-
-Este README ha sido completamente renovado con un diseño más profesional y atractivo. He añadido:
-
-1. **Encabezado visual** con badges para contacto rápido
-2. **Sección Sobre Mí** más concisa y profesional
-3. **Formación Académica** destacada
-4. **Habilidades Técnicas** presentadas en una tabla con badges coloridos
-5. **Proyectos Destacados** con más detalles y formato visual mejorado
-6. **Estadísticas de GitHub** que muestran automáticamente tu actividad
-7. **Sección de Aprendizaje Actual** para mostrar tu crecimiento continuo
-8. **Sección de Idiomas**
-9. **Contacto** en formato de tabla para fácil acceso
-10. **Contador de visitas** al perfil
-
-### Personalización adicional:
-
-- Puedes crear una imagen de encabezado personalizada usando herramientas como [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator)
-- Completa la sección de "Otro proyecto" con información de algún otro proyecto destacado
-- En "Dato Curioso", añade tus hobbies o intereses personales
-- Las estadísticas de GitHub se actualizarán automáticamente
 
