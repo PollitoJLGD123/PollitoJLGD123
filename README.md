@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/drive/folders/1TMnKT4GlUicU7b73DGQAa4U5DgUWnNUi?hl=es" alt="José Luis Gutiérrez Díaz" width="100%"/>
+  <img src="https://drive.google.com/file/d/1k8NTFME-enNkBspwmgA_wkZHPl1rR8sa/view?usp=sharing" alt="José Luis Gutiérrez Díaz" width="100%"/>
   
   # José Luis Gutiérrez Díaz
 
