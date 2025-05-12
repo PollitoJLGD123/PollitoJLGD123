@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/PollitoJLGD123/PollitoJLGD123/blob/main/foto_me.jpg" alt="José Luis Gutiérrez Díaz" width="100%"/>
+  <img src="https://github.com/PollitoJLGD123/PollitoJLGD123/blob/main/foto_me.jpg?raw=true" alt="José Luis Gutiérrez Díaz" width="150" style="border-radius: 50%;"/>
   
   # José Luis Gutiérrez Díaz
 
