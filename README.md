@@ -22,14 +22,14 @@
 Ingeniero de Sistemas en formación en la Universidad Nacional de Trujillo, actualmente en el séptimo ciclo. Apasionado por el desarrollo de software, con enfoque en soluciones Full Stack y gestión de bases de datos. Mi interés por la inteligencia artificial y la ciencia de datos me ha llevado a desarrollar proyectos innovadores que buscan resolver problemas reales.
 
 ```
-> Creo en el poder de la tecnología para transformar vidas y estoy comprometido con el aprendizaje continuo.
+> Me gusta aprender constantemente nuevas tecnologías para mi desarrollo profesional.
 ```
 
 ## 🎓 Formación Académica
 
 - **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
   - Séptimo ciclo
-  - Enfoque en desarrollo de software y ciencia de datos
+  - Enfoque en desarrollo de software, ciencia de datos y desarrollo web FullStack.
 
 ## 🛠️ Habilidades Técnicas
 
